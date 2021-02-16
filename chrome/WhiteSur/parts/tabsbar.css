@@ -256,7 +256,7 @@ tab[selected]:-moz-window-inactive {
 }
 
 /* Create new container tab indicator */
-.tabbrowser-tab[class*="identity-color-"] .tab-content::before {
+/* .tabbrowser-tab[class*="identity-color-"] .tab-content::before {
 	content: "";
 	display: block;
 	background-image: var(#userContext-icons:--identity-icon);
@@ -281,4 +281,4 @@ tab[selected]:-moz-window-inactive {
 	top: -8px;
 	position: relative;
 	margin-right: -10px;
-}
+} */
